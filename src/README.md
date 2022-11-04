@@ -25,6 +25,6 @@ Here you can change the team names and the maximal score of the match. Down ther
 Time handler, useful for practice time. By default are 5 minutes for practice, and down you'll find the buttons _play_, _pause_ and _stop_ to take
 control of the practice time.
 
-### Winner.js
+### ShowWinner.js
 
 When one the teams gets the maximal score the **Winner** appears, with a reset button to restore the game and start a new match.
