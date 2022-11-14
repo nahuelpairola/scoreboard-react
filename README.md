@@ -15,6 +15,7 @@ Then run the commands:
 
 ```
 cd src
+npm install
 npm start
 ```
 
