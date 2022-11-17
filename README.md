@@ -1,6 +1,6 @@
 # Score Board
 
-This project was developed with React and you can use it on https://thriving-twilight-fa0e7a.netlify.app/. It was designed
+This project was developed with React and you can use it on https://scoreboard-nap.netlify.app/. It was designed
 to uset it locally.
 
 ## Git Clone
