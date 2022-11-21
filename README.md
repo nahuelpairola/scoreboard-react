@@ -1,7 +1,7 @@
 # Score Board
 
 This project was developed with React and you can use it on https://scoreboard-nap.netlify.app/. It was designed
-to uset it locally.
+to uset it with a notebook projector or in a big screen.
 
 ## Git Clone
 
